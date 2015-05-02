@@ -1,0 +1,11 @@
+*.o
+pi/bin/
+
+# for IntelliJ IDEA
+*.iml
+.idea/
+out/
+
+# for Eclipse
+.classpath
+.project
